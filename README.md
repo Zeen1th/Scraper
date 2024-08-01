@@ -12,20 +12,16 @@ URL Input: Enter the URL of the webpage you want to scrape.
 Scrape and Save: Extract text content and save it to a file with a single click.
 Error Handling: Alerts you if an error occurs during the scraping process.
 How to Use
+
 Install Dependencies:
-
-bash
-Copy code
 pip install requests beautifulsoup4
+
 Run the Script:
-
-bash
-Copy code
 python Scrap.py
+
 Enter URL:
-
 A GUI will appear. Enter the URL of the webpage you wish to scrape.
-Scrape and Save:
 
+Scrape and Save:
 Click the "Scrape and Save" button.
 The extracted text will be saved to extracted_text.txt in the script's directory.
